@@ -64,3 +64,5 @@ hamburgerInput.addEventListener('change', () => {
         body.style.overflow = 'visible';
     }
 })
+
+//GH Pages not working
