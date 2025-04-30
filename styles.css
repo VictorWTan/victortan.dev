@@ -446,12 +446,25 @@ a:focus {
   height: 3em;
 }
 
-#east-broadway .logo-container {
+#charles-b-wang .logo-container {
   display: flex;
   justify-content: center;
   align-self: center;
   flex-direction: column;
   background-image: url("./charles-b-wang-community-health-center-squarelogo-1424705251126.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 3em;
+  height: 3em;
+}
+
+#uob .logo-container {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+  background-image: url("./uob.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
