@@ -459,7 +459,8 @@ a:focus {
   height: 3em;
 }
 
-#uob .logo-container {
+#uob .logo-container,
+#uob-gmo .logo-container {
   display: flex;
   justify-content: center;
   align-self: center;
